@@ -7,7 +7,7 @@ This is a sample page. The website focuses on implementing the basics of HTML an
 
 ### The deployed Version Link
 
-[Dance Landing Page]()
+[Dance Landing Page](https://dance-lp.netlify.app/)
 
 ### SnapShot of the Webpage
 
